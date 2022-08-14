@@ -1,2 +1,6 @@
 This is my first line in the file.
+
 I do not want a conflict...
+
+lets create a conflict...
+
